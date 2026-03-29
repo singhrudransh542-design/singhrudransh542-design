@@ -1,7 +1,7 @@
 # Hi, I'm Rudransh 👋
 
 🎓 Integrated M.Tech Data Science Student at VIT Bhopal  
-💻 Interested in Programming, AI, and Technology  
+💻 Interested in Programming, Data Science, and AI  
 🚀 Currently learning and building my skills  
 
 ---
@@ -19,7 +19,7 @@
 - Problem Solving  
 
 ---
-
 ## 📫 Connect with me
-- LinkedIn: ()
+- [LinkedIn Profile](www.linkedin.com/in/rudransh-singh-chandel)
+
 
