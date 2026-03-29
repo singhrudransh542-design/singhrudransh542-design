@@ -13,7 +13,7 @@
 
 ---
 
-## 🔧 Tools I’m Learning
+## 🔧 Tools/skills I’m Learning
 - Python
 - GitHub
 - Problem Solving  
