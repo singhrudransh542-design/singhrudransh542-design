@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rudransh 👋
 
-<!--
-**singhrudransh542-design/singhrudransh542-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated M.Tech Data Science Student at VIT Bhopal  
+💻 Interested in Programming, AI, and Technology  
+🚀 Currently learning and building my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- Improve programming skills  
+- Build meaningful projects  
+- Explore data science and AI  
+
+---
+
+## 🔧 Tools I’m Learning
+- Python
+- GitHub
+- Problem Solving  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: ()
+
